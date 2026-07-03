@@ -11,8 +11,7 @@ This project was built to explore the fundamentals of data protection, symmetric
 - **User-friendly:** Interactive prompts in the terminal for seamless user experience.
 
 ## 📸 See it in Action
-![Caesar Cipher Demo](screenshot.png)
-<img width="1535" height="863" alt="screenshot" src="https://github.com/user-attachments/assets/b8e8f8e0-ff81-4b55-83d2-e6ce9881d27d" />
+![Caesar Cipher Demo]<img width="1535" height="863" alt="screenshot" src="https://github.com/user-attachments/assets/b8e8f8e0-ff81-4b55-83d2-e6ce9881d27d" />
 
 ## 💻 Example Output
 
